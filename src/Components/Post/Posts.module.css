@@ -1,0 +1,30 @@
+.post_box {
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin: 20px;
+    width: 150px;
+    height: 30px;
+    border: none;
+    background: wheat;
+    border-radius: 15px;
+}
+
+textarea {
+    top: 10px;
+    width: 150px;
+    height: 30px;
+    border: none; 
+    background: wheat;
+    border-radius: 15px;
+}
+
+button {
+    margin: 10px;
+    border: none;
+    background: wheat;
+    border-radius: 10px;
+}
